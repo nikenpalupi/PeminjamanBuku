@@ -1,0 +1,1 @@
+<footer align="center" class="Copyright">Copyright@nikenpal || 223307077</footer>
